@@ -3,3 +3,14 @@ C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.GeneratedMSBuildEditorConf
 C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.AssemblyInfoInputs.cache
 C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.AssemblyInfo.cs
 C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.csproj.CoreCompileInputs.cache
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.exe
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.deps.json
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.runtimeconfig.json
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.runtimeconfig.dev.json
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.dll
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\ref\w-s.dll
+C:\Users\enigma\source\repos\w-s\bin\Debug\net5.0\w-s.pdb
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.dll
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\ref\w-s.dll
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.pdb
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.genruntimeconfig.cache
