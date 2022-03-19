@@ -1,0 +1,5 @@
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.csproj.AssemblyReference.cache
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.AssemblyInfoInputs.cache
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.AssemblyInfo.cs
+C:\Users\enigma\source\repos\w-s\obj\Debug\net5.0\w-s.csproj.CoreCompileInputs.cache
